@@ -3,11 +3,6 @@
 <h3>GuideFlow: Constraint-Guided Flow Matching for Planning in End-to-End
 Autonomous Driving</h3>
 
-<div align="center">
-<h1>GuideFlow</h1>
-<h3>GuideFlow: Constraint-Guided Flow Matching for Planning in End-to-End
-Autonomous Driving</h3>
-
 Lin Liu `<sup>`1,2 `</sup>`, Caiyan Jia `<sup>`1,2*`</sup>`, Guanyi Yu `<sup>`3,†`</sup>`, Ziying Song `<sup>`1,2*`</sup>`,
 JunQiao Li `<sup>`3 `</sup>`, Feiyang Jia `<sup>`1 `</sup>`,Peiliang Wu `<sup>`1 `</sup>`, Xiaoshuai Hao `<sup>`5 `</sup>`, Yandan Luo `<sup>`5 `</sup>`
 `<sup>`1 `</sup>` School of Computer Science and Technology, Beijing Jiaotong University
