@@ -160,7 +160,4 @@ If you find GuideFlow is useful in your research or applications, please conside
 }
 ```
 
-`<div  align="center">`
- `<img src="./figures/logo.jpg" width = "150"  align=center />`
-
 </div>
