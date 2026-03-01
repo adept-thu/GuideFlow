@@ -58,9 +58,7 @@ Driving planning is a critical component of end-to-end (E2E) autonomous driving.
 
 ## Getting Started
 
-- [Getting started from NAVSIM environment preparation
-
-  ](https://github.com/autonomousvision/navsim?tab=readme-ov-file#getting-started-)Training & Evaluation
+- [Getting started from NAVSIM environment preparation](https://github.com/autonomousvision/navsim?tab=readme-ov-file#getting-started-)Training & Evaluation
 
   Update paths in:
 
