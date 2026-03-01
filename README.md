@@ -30,9 +30,9 @@ JunQiao Li `<sup>`3 `</sup>`, Feiyang Jia `<sup>`1 `</sup>`,Peiliang Wu `<sup>`1
 ## Links
 
 - [Introduction](#introduction)
-- [[Qualitative Results on Navhard]](#Qualitative Results on NAVSIM, NuScenes and Bench2Drive)
-- [Getting Started](#Getting Started)
-- [Model Zoo on NavSimV2](#Model Zoo)
+- [Qualitative Results on Navhard]()
+- [Getting Started]()
+- [Model Zoo on NavSimV2]()
 - [Acknowledgement](#Acknowledgement)
 - [Citation](#Citation)
 
