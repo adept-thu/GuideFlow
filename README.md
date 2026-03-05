@@ -115,7 +115,7 @@ flowdrive_unet/transfuser_model_v4.py # anchor as condition with meanflow
 flowdrive_unet/transfuser_model_v5.py # command as condition
 flowdrive_unet/transfuser_model_v6.py # command as condition
 flowdrive_unet/transfuser_model_v9.py # command + EP SCORE as condition
-flowdrive_unet/transfuser_model_v9.py # command + EP SCORE as condition + rfe Module
+flowdrive_unet/transfuser_model_v10.py # command + EP SCORE as condition + rfe Module
 ```
 
 ## Acknowledgement
