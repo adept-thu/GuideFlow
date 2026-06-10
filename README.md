@@ -68,31 +68,6 @@ Driving planning is a critical component of end-to-end (E2E) autonomous driving.
   ——navsim/agents/WoTE/configs/default_stage3.py
   ```
 
-  ## Then launch training stage 1:
-
-
-  ```bash
-  bash scripts/training/run_ImagineWorld_stage1.sh # stage1_training
-  ```
-
-  Then launch training stage 2:
-
-  ```bash
-  bash scripts/training/run_ImagineWorld_stage2.sh # stage2_training
-  ```
-
-  Then launch training stage 3:
-
-  ```bash
-  bash scripts/training/run_ImagineWorld_stage3.sh # stage3_training
-  ```
-
-  Evaluation (stage 3):
-
-  ```bash
-  bash scripts/evaluation/eval_driveworld_vla.sh
-  ```
-
 ## Training & Evaluation
 
 Train GuideFlow on Navtrain split
